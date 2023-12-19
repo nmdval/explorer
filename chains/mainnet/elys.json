@@ -1,0 +1,20 @@
+{
+    "chain_name": "elystestnet-1",
+    "api": ["https://api-elys.vinjan.xyz/","https://api-elys.nomadvalidator.com/"],
+    "rpc": ["https://rpc-elys.vinjan.xyz/"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.46.11",
+    "coin_type": "118",
+    "min_tx_fee": "500",
+    "addr_prefix": "elys",
+    "logo": "/logos/elys.png",
+    "assets": [{
+        "base": "uelys",
+        "symbol": "ELYS",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/elys.png"
+    }]
+  }
+  

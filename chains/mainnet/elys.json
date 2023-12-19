@@ -1,5 +1,5 @@
 {
-    "chain_name": "elystestnet-1",
+    "chain_name": "Elys-testnet",
     "api": ["https://api-elys.vinjan.xyz/","https://api-elys.nomadvalidator.com/"],
     "rpc": ["https://rpc-elys.vinjan.xyz/"],
     "coingecko": "",

@@ -21,7 +21,7 @@ jobs:
       - name: Install Deno
         uses: denoland/setup-deno@v1
         with:
-          deno-version: v1.x
+          deno-version: v1.39
 
       - name: Install Node.js
         uses: actions/setup-node@v3
@@ -29,11 +29,11 @@ jobs:
           node-version: lts/*
 
       - name: Build step
-        run: "npm install && npm run build" # 📝 Update the build command(s) if necessary
+        run: "npm install && npm run build --force" # 📝 Update the build command(s) if necessary
 
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "quiet-bobcat-52"
+          project: "explorer"
           entrypoint: "https://deno.land/std@0.188.0/http/file_server.ts" # 📝 Update the entrypoint if necessary
           root: "dist" # 📝 Update the root if necessary

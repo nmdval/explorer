@@ -1,0 +1,19 @@
+{
+    "chain_name": "Stratos",
+    "coingecko": "stratos",
+    "api": ["https://rest.cosmos.directory/stratos","https://stratos-api.nomadvalidator.com"],
+    "rpc": ["https://rpc.cosmos.directory/stratos","https://stratos-rpc.nomadvalidator.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.7",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "stos",
+    "logo": "/logos/stratos.png",
+    "assets": [{
+        "base": "wei",
+        "symbol": "STOS",
+        "exponent": "18",
+        "coingecko_id": "stratos",
+        "logo": "/logos/selfchain.png"
+    }]
+}

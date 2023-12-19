@@ -1,0 +1,19 @@
+{
+    "chain_name": "SGE",
+    "coingecko": "",
+    "api": ["https://api-sge.offellnode.top","https://api.sge.nodestake.top"],
+    "rpc": ["https://rpc-sge.offellnode.top","https://rpc.sge.nodestake.top"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.7",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "sge",
+    "logo": "/logos/sge.png",
+    "assets": [{
+        "base": "usge",
+        "symbol": "SGE",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/sge.png"
+    }]
+}

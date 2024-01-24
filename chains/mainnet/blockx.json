@@ -1,0 +1,19 @@
+{
+    "chain_name": "Blockx",
+    "coingecko": "",
+    "api": ["https://blockx-api.nomadvalidator.com","https://api.blockx.indonode.net"],
+    "rpc": ["https://blockx-rpc.nomadvalidator.com","https://rpc.blockx.indonode.net"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.7",
+    "coin_type": "18",
+    "min_tx_fee": "5000",
+    "addr_prefix": "blockx",
+    "logo": "/logos/blockx.png",
+    "assets": [{
+        "base": "abcx",
+        "symbol": "BCX",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "/logos/blockx.png"
+    }]
+}

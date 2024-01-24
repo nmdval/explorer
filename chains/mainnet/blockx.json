@@ -5,7 +5,7 @@
     "rpc": ["https://blockx-rpc.nomadvalidator.com","https://rpc.blockx.indonode.net"],
     "snapshot_provider": "",
     "sdk_version": "0.46.7",
-    "coin_type": "18",
+    "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "blockx",
     "logo": "/logos/blockx.png",

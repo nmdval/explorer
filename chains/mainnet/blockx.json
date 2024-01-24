@@ -12,7 +12,7 @@
     "assets": [{
         "base": "abcx",
         "symbol": "BCX",
-        "exponent": "6",
+        "exponent": "18",
         "coingecko_id": "",
         "logo": "/logos/blockx.png"
     }]

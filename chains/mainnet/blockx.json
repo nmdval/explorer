@@ -1,8 +1,8 @@
 {
     "chain_name": "Blockx",
     "coingecko": "",
-    "api": ["https://blockx-api.nomadvalidator.com","https://api.blockx.indonode.net"],
-    "rpc": ["https://blockx-rpc.nomadvalidator.com","https://rpc.blockx.indonode.net"],
+    "api": ["https://api.blockx.nodestake.org","https://blockx-api.nomadvalidator.com","https://api.blockx.indonode.net"],
+    "rpc": ["https://rpc.blockx.nodestake.org","https://blockx-rpc.nomadvalidator.com","https://rpc.blockx.indonode.net"],
     "snapshot_provider": "",
     "sdk_version": "0.46.7",
     "coin_type": "118",

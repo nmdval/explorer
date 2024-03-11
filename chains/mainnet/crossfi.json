@@ -1,0 +1,19 @@
+{
+    "chain_name": "CrossFi",
+    "coingecko": "",
+    "api": ["https://crossfi-rpc-testnet.nomadvalidator.com","https://api-t.crossfi.nodestake.org"],
+    "rpc": ["https://crossfi-api-testnet.nomadvalidator.com","https://rpc-t.crossfi.nodestake.org"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.7",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "px",
+    "logo": "/logos/crossfi.png",
+    "assets": [{
+        "base": "mpx",
+        "symbol": "crossfi",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/crossfi.png"
+    }]
+}

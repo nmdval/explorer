@@ -6,7 +6,7 @@
     "snapshot_provider": "",
     "sdk_version": "0.46.7",
     "coin_type": "118",
-    "min_tx_fee": "5000",
+    "min_tx_fee": "5000000000",
     "addr_prefix": "px",
     "logo": "/logos/crossfi.png",
     "assets": [{

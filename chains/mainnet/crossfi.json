@@ -8,12 +8,12 @@
     "coin_type": "118",
     "min_tx_fee": "5000000000",
     "addr_prefix": "px",
-    "logo": "/public/crossfi.jpg",
+    "logo": "https://www.nomadvalidator.com/img/crossfi.jpg",
     "assets": [{
         "base": "mpx",
         "symbol": "px",
         "exponent": "18",
         "coingecko_id": "",
-        "logo": "/public/crossfi.jpg"
+        "logo": "https://www.nomadvalidator.com/img/crossfi.jpg"
     }]
 }

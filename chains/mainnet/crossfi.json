@@ -1,5 +1,5 @@
 {
-    "chain_name": "crossfi",
+    "chain_name": "crossfi-testnet",
     "coingecko": "",
     "api": ["https://crossfi-api-testnet.nomadvalidator.com","https://api-t.crossfi.nodestake.org"],
     "rpc": ["https://crossfi-rpc-testnet.nomadvalidator.com","https://rpc-t.crossfi.nodestake.org"],

@@ -8,7 +8,7 @@
     "coin_type": "118",
     "min_tx_fee": "5000000000",
     "addr_prefix": "px",
-    "logo": "/logos/crossfi.png",
+    "logo": "/public/crossfi.png",
     "assets": [{
         "base": "mpx",
         "symbol": "px",

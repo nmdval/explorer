@@ -1,0 +1,19 @@
+{
+    "chain_name": "union-testnet",
+    "coingecko": "",
+    "api": ["https://api-union-t.nomadvalidator.com","https://grpc-t.union.nodestake.org"],
+    "rpc": ["https://rpc-union-t.nomadvalidator.com","https://rpc-t.union.nodestake.org"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.7",
+    "coin_type": "118",
+    "min_tx_fee": "5000000000",
+    "addr_prefix": "union",
+    "logo": "https://www.nomadvalidator.com/img/union.jpg",
+    "assets": [{
+        "base": "uno",
+        "symbol": "uno",
+        "exponent": "8",
+        "coingecko_id": "",
+        "logo": "https://www.nomadvalidator.com/img/union.jpg"
+    }]
+}

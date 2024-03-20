@@ -10,7 +10,7 @@
     "addr_prefix": "union",
     "logo": "https://www.nomadvalidator.com/img/union.jpg",
     "assets": [{
-        "base": "uno",
+        "base": "muno",
         "symbol": "uno",
         "exponent": "8",
         "coingecko_id": "",

@@ -1,0 +1,19 @@
+{
+    "chain_name": "swisstronik-testnet",
+    "coingecko": "",
+    "api": ["https://swisstronik-api.nomadvalidator.com","https://api.testnet.swisstronik.com"],
+    "rpc": ["https://swisstronik-rpc.nomadvalidator.com","https://rpc.testnet.swisstronik.com"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.7",
+    "coin_type": "118",
+    "min_tx_fee": "5000000000",
+    "addr_prefix": "swtr",
+    "logo": "https://www.nomadvalidator.com/img/swisstronik.jpg",
+    "assets": [{
+        "base": "uswtr",
+        "symbol": "swtr",
+        "exponent": "6",
+        "coingecko_id": "",
+        "logo": "https://www.nomadvalidator.com/img/swisstronik.jpg"
+    }]
+}

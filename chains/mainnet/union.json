@@ -12,7 +12,7 @@
     "assets": [{
         "base": "muno",
         "symbol": "uno",
-        "exponent": "8",
+        "exponent": "18",
         "coingecko_id": "",
         "logo": "https://www.nomadvalidator.com/img/union.jpg"
     }]

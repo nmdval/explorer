@@ -1,0 +1,19 @@
+{
+    "chain_name": "composable",
+    "coingecko": "",
+    "api": ["https://rpc.composable-cosmos.composablenodes.tech"],
+    "rpc": ["https://cosmos-rest.staketab.org"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.7",
+    "coin_type": "118",
+    "min_tx_fee": "5000",
+    "addr_prefix": "centauri",
+    "logo": "https://www.nomadvalidator.com/img/composable.png",
+    "assets": [{
+        "base": "ppica",
+        "symbol": "pica",
+        "exponent": "12",
+        "coingecko_id": "",
+        "logo": "https://www.nomadvalidator.com/img/composable.png"
+    }]
+}

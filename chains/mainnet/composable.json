@@ -1,8 +1,8 @@
 {
     "chain_name": "composable",
     "coingecko": "",
-    "api": ["https://rpc.composable-cosmos.composablenodes.tech"],
-    "rpc": ["https://api.composable-cosmos.composablenodes.tech"],
+    "api": ["https://api.composable-cosmos.composablenodes.tech"],
+    "rpc": ["https://rpc.composable-cosmos.composablenodes.tech"],
     "snapshot_provider": "",
     "sdk_version": "0.46.7",
     "coin_type": "118",

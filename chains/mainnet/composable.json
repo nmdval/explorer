@@ -13,7 +13,7 @@
         "base": "ppica",
         "symbol": "pica",
         "exponent": "12",
-        "coingecko_id": "",
+        "coingecko_id": "picasso",
         "logo": "https://www.nomadvalidator.com/img/composable.png"
     }]
 }

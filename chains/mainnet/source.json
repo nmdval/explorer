@@ -1,6 +1,6 @@
 {
     "chain_name": "source",
-    "coingecko": "source",
+    "coinGeckoId": "source",
     "api": [
         {"provider": "NodeStake", "address": "https://api.source.nodestake.top"},
         {"provider": "KJNodes", "address": "https://source.api.kjnodes.com"},

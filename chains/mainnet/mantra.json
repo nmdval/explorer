@@ -1,19 +1,19 @@
 {
     "chain_name": "mantrachain-testnet",
     "coingecko": "",
-    "api": ["https://mantra-testnet-api.itrocket.net"],
-    "rpc": ["https://mantra-testnet-rpc.itrocket.net"],
+    "api": ["https://api-mantra-testnet.whispernode.com"],
+    "rpc": ["https://rpc-mantra-testnet.whispernode.com/"],
     "snapshot_provider": "",
     "sdk_version": "0.47.4",
     "coin_type": "118",
     "min_tx_fee": "100",
     "addr_prefix": "mantra",
-    "logo": "/logos/mantrachain.png",
+    "logo": "https://www.nomadvalidator.com/img/mantra.jpg",
     "assets": [{
-        "base": "uaum",
-        "symbol": "AUM",
+        "base": "uom",
+        "symbol": "OM",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/mantrachain.png"
+        "logo": "https://www.nomadvalidator.com/img/mantra.jpg"
     }]
 }

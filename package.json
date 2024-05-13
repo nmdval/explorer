@@ -12,6 +12,7 @@
     "type-check": "vue-tsc --noEmit"
   },
   "dependencies": {
+    "@cosmjs/amino": "^0.32.3",
     "@chenfengyuan/vue-countdown": "2",
     "@cosmjs/crypto": "^0.32.3",
     "@cosmjs/encoding": "^0.32.3",

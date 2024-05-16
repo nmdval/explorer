@@ -1,7 +1,7 @@
 {
-    "chain_name": "Airchains-testnet",
-    "api": ["https://airchains-api-t.nomadvalidator.com","https://api-testnet-airchains.nodeist.net"],
-    "rpc": ["https://airchains-rpc-t.nomadvalidator.com","https://rpc-testnet-airchains.nodeist.net"],
+    "chain_name": "airchains-testnet",
+    "api": ["api-airchains-t.nomadvalidator.com","https://api-testnet-airchains.nodeist.net"],
+    "rpc": ["rpc-airchains-t.nomadvalidator.com","https://rpc-testnet-airchains.nodeist.net"],
     "coingecko": "",
     "snapshot_provider": "",
     "sdk_version": "0.46.11",

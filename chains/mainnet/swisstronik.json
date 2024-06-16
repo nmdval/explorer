@@ -10,7 +10,7 @@
     "addr_prefix": "swtr",
     "logo": "https://www.nomadvalidator.com/img/swisstronik.jpg",
     "assets": [{
-        "base": "uswtr",
+        "base": "aswtr",
         "symbol": "swtr",
         "exponent": "18",
         "coingecko_id": "",

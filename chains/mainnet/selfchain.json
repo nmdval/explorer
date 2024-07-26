@@ -1,19 +1,19 @@
 {
-    "chain_name": "Selfchain-testnet",
+    "chain_name": "selfchain",
     "coingecko": "",
-    "api": ["https://api-selfchain.vinjan.xyz/"],
-    "rpc": ["https://rpc-selfchain.vinjan.xyz/"],
+    "api": ["https://api.selfchain.io","https://api-selfchain.vinjan.xyz"],
+    "rpc": ["https://rpc.selfchain.io","https://rpc-selfchain.vinjan.xyz"],
     "snapshot_provider": "",
     "sdk_version": "0.46.7",
     "coin_type": "118",
     "min_tx_fee": "5000",
     "addr_prefix": "self",
-    "logo": "/logos/selfchain.png",
+    "logo": "https://www.nomadvalidator.com/img/self.webp",
     "assets": [{
-        "base": "uself",
+        "base": "uslf",
         "symbol": "SELF",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/selfchain.png"
+        "logo": "https://www.nomadvalidator.com/img/self.webp"
     }]
 }

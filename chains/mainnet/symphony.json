@@ -8,13 +8,13 @@
     "coin_type": "118",
     "min_tx_fee": "500",
     "addr_prefix": "symphony",
-    "logo": "/logos/symphony.jpg",
+    "logo": "/img/symphony.jpg",
     "assets": [{
         "base": "note",
         "symbol": "mld",
         "exponent": "6",
         "coingecko_id": "",
-        "logo": "/logos/symphony.jpg"
+        "logo": "/img/symphony.jpg"
     }]
   }
   

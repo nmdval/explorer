@@ -1,8 +1,8 @@
 {
     "chain_name": "mantrachain-testnet",
     "coingecko": "",
-    "api": ["https://api-mantra-testnet.whispernode.com"],
-    "rpc": ["https://rpc-mantra-testnet.whispernode.com/"],
+    "api": ["https://testnet-mantra-api.konsortech.xyz","https://mantra-testnet-api.itrocket.net"],
+    "rpc": ["https://testnet-mantra-rpc.konsortech.xyz","https://mantra-testnet-rpc.itrocket.net"],
     "snapshot_provider": "",
     "sdk_version": "0.47.4",
     "coin_type": "118",

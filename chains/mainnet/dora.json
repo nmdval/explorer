@@ -1,0 +1,19 @@
+{
+    "chain_name": "doravota",
+    "coingecko": "",
+    "api": ["https://rest.cosmos.directory/doravota"],
+    "rpc": ["https://rpc.cosmos.directory/doravota"],
+    "snapshot_provider": "",
+    "sdk_version": "0.46.7",
+    "coin_type": "118",
+    "min_tx_fee": "5000000000",
+    "addr_prefix": "dora",
+    "logo": "https://www.nomadvalidator.com/img/dora.png",
+    "assets": [{
+        "base": "peaka",
+        "symbol": "DORA",
+        "exponent": "18",
+        "coingecko_id": "dora-factory-2",
+        "logo": "https://www.nomadvalidator.com/img/dora.jpg"
+    }]
+}

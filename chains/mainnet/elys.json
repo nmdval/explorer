@@ -1,7 +1,7 @@
 {
-    "chain_name": "Elys-testnet",
-    "api": ["https://elys-api-testnet.nomadvalidator.com/","https://api-elys.vinjan.xyz/"],
-    "rpc": ["https://elys-rpc-testnet.nomadvalidator.com/","https://rpc-elys.vinjan.xyz/"],
+    "chain_name": "Elys",
+    "api": ["https://elys-1-api.nomadvalidator.com"],
+    "rpc": ["https://elys-1-rpc-testnet.nomadvalidator.com"],
     "coingecko": "",
     "snapshot_provider": "",
     "sdk_version": "0.46.11",

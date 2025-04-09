@@ -1,22 +1,20 @@
 {
     "chain_name": "atomone-testnet",
-    "registry_name": "atomone",
-    "api": [
-        {"provider": "cosmos.directory", "address": "https://rest.testcosmos.directory/atomonetestnet"},
-    ],
-    "rpc": [
-        {"provider": "cosmos.directory", "address": "https://rpc.testcosmos.directory/atomonetestnet"}, 
-    ],
-    "sdk_version": "0.45.1",
+    "api": ["https://rest.testcosmos.directory/atomonetestnet"],
+    "rpc": ["https://rpc.testcosmos.directory/atomonetestnet"],
+    "coingecko": "",
+    "snapshot_provider": "",
+    "sdk_version": "0.46.11",
     "coin_type": "118",
     "min_tx_fee": "800",
-    "addr_prefix": "cosmos",
+    "addr_prefix": "atone",
     "logo": "https://www.nomadvalidator.com/img/atomone.png",
     "assets": [{
         "base": "uatone",
         "symbol": "atone",
         "exponent": "6",
-        "coingecko_id": "atomone", 
+        "coingecko_id": "",
         "logo": "https://www.nomadvalidator.com/img/atomone.png"
     }]
-}
+  }
+  
